@@ -52,6 +52,12 @@ This project is a starter template for building a Laravel RESTful API with JWT (
 | GET    | /api/profile  | Get current user information             |
 | GET    | /api/refresh  | Refresh access token                     |
 
+## API Documentation
+
+API documentation is available in Postman format. You can import the Postman JSON file that accompanies this project to get complete documentation about the API endpoints and required requests.
+
+https://documenter.getpostman.com/view/24200467/2sA3XJn5Sc
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
