@@ -1,4 +1,4 @@
-## Laravel RESTful API Authentication with JWT
+## PHP_Laravel_Starter-Kit_JWT_RESTful-API
 
 This project is a starter template for building a Laravel RESTful API with JWT (JSON Web Token) authentication. It provides endpoints for user registration, user login, retrieving user information, refreshing tokens, and logging out. The project is intended to serve as a boilerplate and has been uploaded to GitHub as a public repository.
 
